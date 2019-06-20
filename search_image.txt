@@ -1,0 +1,18 @@
+﻿//products table의 searchImage column에 insert 할 것.
+
+<img src="http://hdkwonnzlaravel.cdn3.cafe24.com/top/293_15e.JPG"  class="img-responsive" />
+	  
+
+
+<img src="http://hdkwonnzlaravel.cdn3.cafe24.com/icon/delivery_truck.JPG"  class="img-responsive" />
+
+
+<span>14시 이전 주문시<span style="color: blue;"> 오늘 출발 예정</span>-우체국택배</span>
+
+<p style="color: blue;">무료배송 </p>
+
+주문시 2,500원 결제
+
+5만원 이상 구매시 무료
+
+50000

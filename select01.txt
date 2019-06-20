@@ -1,0 +1,18 @@
+﻿//일반적으로 cdn으로 upload 하여 사용한다.(cafe24.com의 cdn은 html file을 support 하지 않는다)
+//상품상세 설명에 나온 사진을 클릭하면 나오게 되는 page이다. cdn에 upload 한 후 그 주소를 copy하여 상품상세설명
+//사진에 a tag를 사용하여 link를 한다. 아래 예제를 참조 할 것.
+//<a href="http://hdkwonnzlaravel.cdn3.cafe24.com/details/select01.html" target="blank"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/300_36.JPG" class="img-responsive"></a>
+//위 tag를 상품상세설명 사진에 삽입하여 클릭하면 select01.html로 이동하도록 한다.(cafe24 cdn 에서는 불가능)
+
+<html>
+<head>
+<title>
+test...
+</title>
+</head>
+<body>
+<center>
+<img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/291_14d.JPG"  />
+</center>
+</body>
+</html>

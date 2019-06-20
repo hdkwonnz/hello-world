@@ -1,0 +1,155 @@
+﻿
+<html>
+<head>
+<title>
+test...
+</title>
+</head>
+<body>
+
+
+<table cellspacing="10" cellpadding="0" border="0">
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="http://hdkwonnzlaravel.cdn3.cafe24.com/select01.html" target="blank"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/300_36.JPG" class="img-responsive" />
+</center>
+<h3>
+<p>고급 여성복</p>
+</h3>
+<h4>
+<p>신상품</p>
+</h4>
+</a>
+</td>
+<td>
+<center>
+<a href="http://www.gmarket.co.kr" target="blank"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/301_37.JPG" class="img-responsive" />
+</center>
+<h3>
+<p>고급 여성복</p>
+</h3>
+<h4>
+<p>신상품</p>
+</h4>
+</a>
+</td>
+</tr>
+</table>
+
+
+</body>
+</html>
+
+
+
+
+<table cellpadding="0" border="0">
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det01.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det02.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det03.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det04.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det05.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det06.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det07.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det08.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det09.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det10.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det11.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det12.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det13.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det14.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+<tr>
+<td style="min-height: 1000px;">
+<center>
+<a href="javascript:void(0)"><img src="http://hdkwonnzlaravel.cdn3.cafe24.com/details/det15.JPG" class="img-responsive" />
+</center>
+</td>
+</tr>
+</table>
+
+

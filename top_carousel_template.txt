@@ -1,0 +1,62 @@
+﻿//products table의 productImage column에 insert 할것.
+
+//image가 3개 일때
+
+                 <div class="item top_images active">
+                              <a href="javascript:void(0)">
+                                     <img src="http://hdkwonnzlaravel.cdn3.cafe24.com/top/320_char1.JPG" class="img-responsive" />
+                              </a>
+                               <div class="carousel-caption">
+                                       <h2></h2>
+                                </div>
+                  </div>
+                  <div class="item top_images">
+                              <a href="javascript:void(0)">
+                                     <img src="http://hdkwonnzlaravel.cdn3.cafe24.com/top/320_char2.JPG" class="img-responsive" />
+                               </a>
+                               <div class="carousel-caption">
+                                       <h2></h2>
+                                </div>
+                   </div>
+                   <div class="item top_images">
+                              <a href="javascript:void(0)">
+                                      <img src="http://hdkwonnzlaravel.cdn3.cafe24.com/top/320_char3.JPG" class="img-responsive" />
+                               </a>
+                               <div class="carousel-caption">
+                                        <h2></h2>
+                               </div>
+                     </div>
+
+
+//image가 2개 일때
+
+                  <div class="item top_images active">
+                              <a href="javascript:void(0)">
+                                     <img src="http://hdkwonnzlaravel.cdn3.cafe24.com/top/318_senhi1.JPG" class="img-responsive" />
+                               </a>
+                                 <div class="carousel-caption">
+                                        <h2></h2>
+                                  </div>
+                   </div>
+                    <div class="item top_images">
+                                 <a href="javascript:void(0)">
+                                      <img src="http://hdkwonnzlaravel.cdn3.cafe24.com/top/318_senhi2.JPG" class="img-responsive" />
+                                  </a>
+                                  <div class="carousel-caption">
+                                        <h2></h2>
+                                  </div>
+                     </div>
+
+
+
+
+////image가 1개일때....
+
+	<div class="item top_images active">
+                              <a href="javascript:void(0)">
+                                        <img src="http://hdkwonnzlaravel.cdn3.cafe24.com/top/293_15e.JPG" class="img-responsive" />
+                              </a>
+                               <div class="carousel-caption">
+                                        <h2></h2>
+                               </div>
+                </div>

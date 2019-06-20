@@ -1,0 +1,56 @@
+---
+ip: "192.168.10.10"
+memory: 2048
+cpus: 1
+provider: virtualbox
+
+authorize: ~/.ssh/id_rsa.pub
+
+keys:
+    - ~/.ssh/id_rsa
+
+folders:
+    - map: ~/PhpCode
+      to: /home/vagrant/Code
+
+sites:
+    - map: amarket.test
+      to: /home/vagrant/Code/amarket/amarket/public
+    
+    - map: amaket.test
+      to: /home/vagrant/Code/amaket/amaket/public
+
+    - map: homestead.test     
+      to: /home/vagrant/Code/blog/blog/public
+
+    - map: homestead57.test
+      to: /home/vagrant/Code/blog57/public
+
+    - map: laravelmall.test
+      to: /home/vagrant/Code/laravelMall/laravelMall/public
+
+    - map: phpMyAdmin.test
+      to: /home/vagrant/Code/phpMyAdmin
+
+databases:
+    - homestead
+    - laravelmall
+    
+# ports:
+#     - send: 50000
+#       to: 5000
+#     - send: 7777
+#       to: 777
+#       protocol: udp
+
+# blackfire:
+#     - id: foo
+#       token: bar
+#       client-id: foo
+#       client-token: bar
+
+# zray:
+#  If you've already freely registered Z-Ray, you can place the token here.
+#     - email: foo@bar.com
+#       token: foo
+#  Don't forget to ensure that you have 'zray: "true"' for your site.
